@@ -1,4 +1,4 @@
-package cs61b.BasicProgram.SLlist;
+package June.cs61b.BasicProgram.SLlist;
 
 public class IntList {
     public int first;
@@ -8,4 +8,5 @@ public class IntList {
         first = f;
         rest = r;
     }
+
 }
